@@ -4,7 +4,7 @@
 
 This project involves analyzing sales transactions within a superstore using MySQL to derive insights for decision-making and strategy formulation.
 
-[SQL Code Analyis](https://github.com/Codewithimisi/Superstore-Sales-Analysis/blob/main/SQL%20Code%20Analysis.sql)
+[SQL Code Analysis](https://github.com/Codewithimisi/Superstore-Sales-Analysis/blob/main/SQL%20Code%20Analysis.sql)
 
 ## Query Questions
  #### 1. Retrieve the total number of orders placed.
