@@ -28,7 +28,7 @@ order by total_purchases desc;
  select (sum(sales)/count(Order_ID)) as average_ordervalue
  from sales;
  
--- 7. List all orders placed on a specific date.
+-- 7. List all orders placed on December 30th, 2019
  select Order_ID
  from sales
  where order_date= '12/30/2019';
